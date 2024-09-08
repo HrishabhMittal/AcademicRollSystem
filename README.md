@@ -23,4 +23,4 @@ grades are automatically calculated according to credits
 
 # Compile Command 
 
-<code>make</code> or <code>g++ main.cpp -o main</code> 
+<code>make</code>
