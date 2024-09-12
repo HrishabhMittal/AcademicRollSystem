@@ -4,9 +4,6 @@
 #include <fstream>
 using namespace std;
 
-// this is for cmd/powershell on windows
-// bash on linux alr has virtual terminal processing enabled
-
 // getch in conio.h doesnt echo 
 // for linux turn off echo and take input
 
