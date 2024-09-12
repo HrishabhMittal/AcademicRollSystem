@@ -12,8 +12,8 @@ using namespace std;
 int getpass(string& out) {
     out="";
     char c;
-    c=getch()
-    while(c!='\n' && c!=' ') {
+    c=getch();
+    while(c!=13) {
         out+=c;
         c=getch();
     }
